@@ -1,0 +1,35 @@
+p{
+	border:1px solid red;
+	background-color:rgba(255, 255, 255, 0.75);
+	border-radius:50px;
+	padding-left:20px;
+	text-align:center;
+}
+body{
+	background-image:url("https://funart.pro/uploads/posts/2020-03/1585256234_31-p-foni-iz-assasin-krid-80.jpg");
+	background-repeat: no-repeat;
+	background-size: auto auto ;
+	background-attachment:fixed;
+
+}
+img{
+	border:2px dashed black;
+	border-radius: 100px;
+}
+h1{
+	border:2px solid red;
+	background-color: white;
+	border-radius:50px;
+	width: 200px;
+}
+p:hover{
+	border-width: 5px;
+	border-color:black;
+	font-size:30px;
+}
+h1.Gr{
+	border:2px solid red;
+	border-radius:50px;
+	background-color: white;
+	width: 600px;
+}
